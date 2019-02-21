@@ -18,6 +18,7 @@
   .navbar {
     background: #490549;
     box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    height: 125px;
   }
   
   li {
