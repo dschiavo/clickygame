@@ -1,51 +1,63 @@
 [
     {
       "id": 1,
-      "image": "bob-belcher.jpg"
+      "image": "https://www.thewrap.com/bobs-burgers-main-characters-ranked-from-best-to-worst-photos/2/",
+    "count": 0
     },
     {
       "id": 2,
-      "image": "BobRoss.jpg"    
+      "image": "https://www.thewrap.com/bobs-burgers-main-characters-ranked-from-best-to-worst-photos/3/", 
+      "count": 0
     },
     {
       "id": 3,
-      "image": "bobs-burgers-teddy.jpg"
+      "image": "https://www.thewrap.com/bobs-burgers-main-characters-ranked-from-best-to-worst-photos/4/",
+      "count": 0
     },
     {
       "id": 4,
-      "image": "frond-bobs-burgers.jpg" 
+      "image": "frond-bobs-burgers.jpg",
+      "count": 0
     },
     {
       "id": 5,
-      "image": "gene-belcher.jpg"
+      "image": "gene-belcher.jpg",
+      "count": 0
     },
     {
       "id": 6,
-      "image": "health-inspector.jpg"
+      "image": "health-inspector.jpg",
+      "count": 0
     },
     {
       "id": 7,
-      "image": "jimmy-junior-bobs-burgers.jpg"
+      "image": "jimmy-junior-bobs-burgers.jpg",
+      "count": 0 
     },
     {
       "id": 8,
-      "image": "mort-bobs-burgers.jpg"
+      "image": "mort-bobs-burgers.jpg",
+      "count": 0
     },
     {
       "id": 9,
-      "image": "linda-belcher.jpg"
+      "image": "linda-belcher.jpg",
+      "count": 0
     },
     {
       "id": 10,
-      "image": "louise-belcher.jpg"
+      "image": "louise-belcher.jpg",
+      "count": 0
     },
     {
       "id": 11,
-      "image": "tina-belcher.JPG"
+      "image": "tina-belcher.JPG",
+      "count": 0
     },
     {
       "id": 12,
-      "image": "tammy.jpg"
+      "image": "tammy.jpg",
+      "count": 0
     }
   ]
   
